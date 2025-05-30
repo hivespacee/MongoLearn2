@@ -1,4 +1,4 @@
-# mongodb-assignment-2
+# Assignment-2
 - Easy-1
 ```js
 db.products.aggregate([
